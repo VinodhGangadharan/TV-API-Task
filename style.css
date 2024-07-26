@@ -1,0 +1,23 @@
+.trend{
+    background-color: brown;
+    color:white;
+    text-align: center;
+}
+body{
+    background-color:rgb(215, 158, 241);
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+.main{
+    font-size: 32px;
+    color: white;
+}
+
+.card-text
+{
+    color:black;
+    text-align: left;
+}
